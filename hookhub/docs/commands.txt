@@ -1,0 +1,68 @@
+This file include all the important notes
+
+-- to setup basic next.js template to start working with 
+sudo apt install npm
+npx create-next-app@latest
+GIVE name of the project
+YES for everything
+cd <project-name>
+npm run dev
+
+-- if faicng error make sure node 20 is been installed
+sudo apt remove nodejs -y
+curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+sudo apt-get install -y nodejs
+node -v
+
+-- adding playwirte as mcp server in claude
+claude mcp add playwright npx @playwright/mcp@latest -s user
+
+-- important links:
+- https://cursor.com/docs
+- https://modelcontextprotocol.io/docs/getting-started/intro
+- https://code.claude.com/docs/en/overview
+
+- https://github.com/microsoft/playwright-mcp (playwirte mcp)
+- https://cursor.directory/ (best persona rules)
+
+
+-- discored
+- https://discord.com/invite/GrbzSbnvFX
+
+-- prompt
+
+I want you to help me write a detailed specification document for a project I’m building.
+
+Project name: "HookHub"
+
+Overview:
+HookHub is a platform where users can browse, search, and discover Claude Hooks and write an initial spec for them.
+
+Core Features:
+- Search for Claude Hooks
+- Browse Hooks by category
+- Display hook details
+
+Data Source:
+Hooks are stored in a GitHub repository. Each hook has:
+- name
+- category
+- description
+- link to the repository
+
+Technical Requirements:
+- The frontend will be built as an MVP using Vue.js.
+- The main page should display hooks in a grid layout.
+- Each hook card should show the hook name, category, and description.
+- Clicking a hook should open more details and a link to the GitHub repository.
+
+What I need from you:
+Create a clear product and technical spec including:
+1. Project overview
+2. Goals and non-goals
+3. User stories
+4. Core features
+5. Data model
+6. UI structure (pages/components)
+7. Basic system architecture
+8. Future improvements
