@@ -1,0 +1,122 @@
+[
+  {
+    "id": "claude-code-hooks-collection",
+    "name": "Claude Code Hooks Collection",
+    "category": "Security",
+    "jobRole": "General",
+    "description": "A growing collection of ready-to-use Claude Code hooks covering safety, automation, and notifications. Includes hooks like block-dangerous-commands and protect-secrets. Copy, paste, and customize.",
+    "repositoryUrl": "https://github.com/karanb192/claude-code-hooks"
+  },
+  {
+    "id": "claude-hooks-typescript",
+    "name": "Claude Hooks (TypeScript)",
+    "category": "Code Quality",
+    "jobRole": "Full Stack",
+    "description": "Write Claude Code hooks with full TypeScript type safety and auto-completion. No more guessing payload structures or dealing with untyped data — strongly-typed hook payloads out of the box.",
+    "repositoryUrl": "https://github.com/johnlindquist/claude-hooks"
+  },
+  {
+    "id": "claude-code-hooks-mastery",
+    "name": "Claude Code Hooks Mastery",
+    "category": "Monitoring",
+    "jobRole": "General",
+    "description": "Master all Claude Code hook events with this comprehensive repo. Features an intelligent TTS system, security enhancements, and automatic logging. Uses UV single-file Python scripts for clean separation.",
+    "repositoryUrl": "https://github.com/disler/claude-code-hooks-mastery"
+  },
+  {
+    "id": "claude-hooks-clean-code",
+    "name": "Claude Hooks (Clean Code)",
+    "category": "Code Quality",
+    "jobRole": "General",
+    "description": "A lightweight Python-based hook system that enforces clean code practices and automates workflows. Provides automatic validation, quality checks, and notifications during Claude Code sessions.",
+    "repositoryUrl": "https://github.com/decider/claude-hooks"
+  },
+  {
+    "id": "rule2hook",
+    "name": "Rule2Hook",
+    "category": "Automation",
+    "jobRole": "General",
+    "description": "Transform natural language project rules into Claude Code hooks effortlessly. Define your conventions in plain English and get working hooks generated automatically.",
+    "repositoryUrl": "https://github.com/astrodragonv/claudecode-rule2hook"
+  },
+  {
+    "id": "awesome-claude-code-sounds",
+    "name": "Claude Code Sound Alerts",
+    "category": "Notifications",
+    "jobRole": "General",
+    "description": "Sound notification hooks for Claude Code that play audio alerts on macOS, Windows, and Linux when Claude finishes a task or needs your attention.",
+    "repositoryUrl": "https://github.com/varun86/awesome-claude-code-sounds"
+  },
+  {
+    "id": "claude-code-multi-agent-observability",
+    "name": "Multi-Agent Observability",
+    "category": "Monitoring",
+    "jobRole": "DevOps",
+    "description": "Real-time monitoring for Claude Code agents through hook event tracking. Captures, stores, and visualizes hook events across multiple concurrent agents with session tracking and live updates.",
+    "repositoryUrl": "https://github.com/disler/claude-code-hooks-multi-agent-observability"
+  },
+  {
+    "id": "claude-tools-tarekziade",
+    "name": "Claude Tools & Hooks",
+    "category": "Automation",
+    "jobRole": "General",
+    "description": "User-defined shell commands that execute automatically at various points in Claude Code's lifecycle. Hooks can modify, approve, or block tool executions, add context, and automate workflows deterministically.",
+    "repositoryUrl": "https://github.com/tarekziade/claude-tools"
+  },
+  {
+    "id": "claude-code-showcase",
+    "name": "Claude Code Showcase",
+    "category": "Code Quality",
+    "jobRole": "Full Stack",
+    "description": "A comprehensive Claude Code configuration example with hooks that auto-format code, run tests on file changes, type-check TypeScript, and block edits on protected branches.",
+    "repositoryUrl": "https://github.com/ChrisWiles/claude-code-showcase"
+  },
+  {
+    "id": "awesome-claude-code",
+    "name": "Awesome Claude Code",
+    "category": "Automation",
+    "jobRole": "General",
+    "description": "A curated list of skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code. The go-to directory for discovering the Claude Code ecosystem.",
+    "repositoryUrl": "https://github.com/hesreallyhim/awesome-claude-code"
+  },
+  {
+    "id": "claude-code-infrastructure-showcase",
+    "name": "Claude Code Infrastructure Showcase",
+    "category": "Monitoring",
+    "jobRole": "DevOps",
+    "description": "Production-tested Claude Code infrastructure patterns from 6 months of real-world use on a TypeScript microservices project. Covers skill auto-activation, hooks, and multi-agent setups.",
+    "repositoryUrl": "https://github.com/diet103/claude-code-infrastructure-showcase"
+  },
+  {
+    "id": "awesome-claude-code-pascalporedda",
+    "name": "Awesome Claude Code Hooks",
+    "category": "Notifications",
+    "jobRole": "General",
+    "description": "A community-driven collection of Claude Code hooks. Open to contributions — submit your own hooks via issues or PRs and benefit from hooks shared by other developers.",
+    "repositoryUrl": "https://github.com/pascalporedda/awesome-claude-code"
+  },
+  {
+    "id": "claude-code-data-science-team",
+    "name": "Claude Code Data Science Team",
+    "category": "Automation",
+    "jobRole": "Data Engineer",
+    "description": "A multi-agent system built on Claude Code that simulates real data science team collaboration. Agents with different specializations work together to deliver end-to-end solutions from raw data to final analysis reports.",
+    "repositoryUrl": "https://github.com/HungHsunHan/claude-code-data-science-team"
+  },
+  {
+    "id": "daaf",
+    "name": "Data Analyst Augmentation Framework (DAAF)",
+    "category": "Automation",
+    "jobRole": "Data Engineer",
+    "description": "An open-source extensible workflow for Claude Code that accelerates data analysis by 5-10x while maintaining transparency, rigor, and reproducibility. Built for researchers and data analysts who need to scale their expertise.",
+    "repositoryUrl": "https://github.com/DAAF-Contribution-Community/daaf"
+  },
+  {
+    "id": "astronomer-agents",
+    "name": "Astronomer AI Agents",
+    "category": "Automation",
+    "jobRole": "Data Engineer",
+    "description": "AI agent tooling for data engineering workflows built by the Astronomer team. Integrates with Airflow deployments via an MCP server and handles data warehouse queries through background Jupyter kernels.",
+    "repositoryUrl": "https://github.com/astronomer/agents"
+  }
+]
